@@ -26,11 +26,10 @@ We have a list of great topics for students, but we've found that our Guest Spea
 If you're still struggling to come up with something to present, contact the cohort's Lead Instructor for more ideas.
 
 ## Location
-We are currently at Holodeck SLC until our new space is finished.
 
-Holodeck  
-175 West 200 South  
-Suite #100 (Garden Level)  
+DevMountain SLC  
+341 S Main Street 
+Main Level
 Salt Lake City, UT 84101  
 
 There is a parking structure in the back, we can validate.
